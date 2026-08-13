@@ -32,21 +32,39 @@ My main focus is building software that is clean, maintainable and ready to evol
 
 <div align="center">
 
-### Development
+### Languages & Frameworks
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,react,flutter,dart,js,html,css" />
 
+<br/>
+
+<sub>
+Python · FastAPI · React · Flutter · Dart · JavaScript · HTML · CSS
+</sub>
+
 <br/><br/>
 
-### Data & Services
+### Databases & Services
 
-<img src="https://skillicons.dev/icons?i=firebase,postgres" />
+<img src="https://skillicons.dev/icons?i=firebase,postgres,sqlite" />
+
+<br/>
+
+<sub>
+Firebase · PostgreSQL · SQLite
+</sub>
 
 <br/><br/>
 
 ### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+<br/>
+
+<sub>
+Git · GitHub · Visual Studio Code
+</sub>
 
 </div>
 
@@ -223,25 +241,35 @@ Educational web application for experimenting with classical encryption methods 
 
 <table>
 <tr>
-<td>
+
+<td width="50%" valign="top">
 
 ### 📄 Contract Analyze AI
 
 Document and contract analysis application.
 
-<a href="https://github.com/M0NAREKS/Contract-Analyze-AI">View project →</a>
+<br/>
+
+<a href="https://github.com/M0NAREKS/Contract-Analyze-AI">
+View project →
+</a>
 
 </td>
 
-<td>
+<td width="50%" valign="top">
 
 ### 🏥 Fall Risk
 
 Fall-risk assessment application and backend system.
 
-<a href="https://github.com/M0NAREKS/Fall_Risk">View project →</a>
+<br/>
+
+<a href="https://github.com/M0NAREKS/Fall_Risk">
+View project →
+</a>
 
 </td>
+
 </tr>
 </table>
 

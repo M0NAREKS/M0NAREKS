@@ -1,16 +1,48 @@
-## Hi there 👋
+# Oğuzhan Bodur
 
-<!--
-**M0NAREKS/M0NAREKS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | Web & Mobile App Development
 
-Here are some ideas to get you started:
+I build end-to-end web and mobile applications, working across frontend, backend, APIs and application architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main focus is developing practical, maintainable software using modern technologies and turning ideas into working products.
+
+## Tech Stack
+
+**Languages & Backend**
+- Python
+- FastAPI
+- REST APIs
+- SQL
+
+**Web**
+- React
+- HTML
+- CSS
+- JavaScript
+
+**Mobile**
+- Flutter
+- Dart
+
+**Tools & Services**
+- Git
+- GitHub
+- Firebase
+
+## Featured Projects
+
+### NUDGE
+Cross-platform nutrition and coaching application built with Flutter, Firebase and Cloud Functions.
+
+### Fridge-AI
+Smart refrigerator application focused on food management, recognition and recipe recommendations.
+
+### Energy-Analyze-AI
+Energy consumption analysis and forecasting application built with Python and Streamlit.
+
+### AI-Cipher-Lab
+Interactive web application for exploring classical cryptography, built with FastAPI and JavaScript.
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/oguzbdr/

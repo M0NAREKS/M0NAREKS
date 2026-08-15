@@ -58,12 +58,12 @@ Firebase · PostgreSQL · SQLite
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,postman" />
 
 <br/>
 
 <sub>
-Git · GitHub · Visual Studio Code
+Git · GitHub · Postman
 </sub>
 
 </div>
